@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python      #
 # Module 3 - Exercise 5 - Palindromes   #
 # Author: Lamech Israel                 #
-# Date:   01/23/2023                    #
+#                                       #
 #########################################
 
 # Create the palindrom method
